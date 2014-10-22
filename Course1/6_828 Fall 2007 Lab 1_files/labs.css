@@ -1,0 +1,18 @@
+DIV.todo {
+	BORDER-RIGHT: black 4px double; PADDING-RIGHT: 5px; BORDER-TOP: black 4px double; PADDING-LEFT: 5px; MARGIN: 1em auto; BORDER-LEFT: black 4px double; WIDTH: 80%; BORDER-BOTTOM: black 4px double; BACKGROUND-COLOR: #e0e0ff
+}
+DIV.required .header {
+	FONT-WEIGHT: bold
+}
+DIV.challenge .header {
+	FONT-STYLE: italic
+}
+DIV.required {
+	BACKGROUND-COLOR: #e0e0ff
+}
+DIV.challenge {
+	BACKGROUND-COLOR: #ffe0e0
+}
+DIV.question {
+	BACKGROUND-COLOR: #e0e0ff
+}
